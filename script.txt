@@ -1,0 +1,6 @@
+Neural Network, different layers, input and output.
+They are connected to each other with different weights(how strongly connected they are to each other),
+BIAS, weighted sum, tanh activation function. to figure out weights and bias we use an algorithom NEAT,
+evolution based. It creates population then ranking them with a fitness score, picks the best performing ai's
+they breads them together and mutates them to create a new population. evenutally the weights and connections
+between the neurons will become more refined simular to how our neurons function.
